@@ -5,6 +5,8 @@ public class Runner {
 
         // murvet dgeisiklik yapti
 
+        System.out.println();
+
     }
 
 
